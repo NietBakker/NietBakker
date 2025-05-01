@@ -14,6 +14,4 @@
 <a href="https://github.com/nietbakker/NietBakker/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/nietbakker/NietBakker?color=2b9348"></a>
 <a href="https://github.com/nietbakker/NietBakker/blob/master/LICENSE"><img src="https://img.shields.io/github/license/nietbakker/NietBakker?color=2b9348" alt="License Badge"/></a>
 
-<i>Love the project? Please consider [donating](https://paypal.me/) to help it improve!</i>
-
 </div>
